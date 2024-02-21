@@ -1,3 +1,7 @@
+import './images/goblin.png';
+import './style.css';
+
+
 document.addEventListener('DOMContentLoaded', function () {
   
   const boxes = document.querySelectorAll(".box");
